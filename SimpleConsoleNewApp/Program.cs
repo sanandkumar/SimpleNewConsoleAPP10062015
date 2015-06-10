@@ -9,6 +9,7 @@ namespace SimpleConsoleNewApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hellow, Its a New Simple Console Application");
+            Console.Read();
         }
     }
 }
